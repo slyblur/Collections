@@ -22,6 +22,7 @@ public class Exercicio3_Set {
 		}
 		
 		Iterator<Integer> iterator = numeros.iterator();
+		Collections.sort(numeros);
 		
 		System.out.println("\nNúmeros do Set: ");
 		
