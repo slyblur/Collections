@@ -1,6 +1,6 @@
 package Collection;
 
-
+import java.util.Collections;
 import java.util.Scanner;
 import java.util.Set;
 import java.util.HashSet;
