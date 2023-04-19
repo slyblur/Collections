@@ -1,5 +1,6 @@
 package Collection;
 
+import java.util.List;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
@@ -12,7 +13,8 @@ public class Exercicio1_ArrayList {
 		Scanner leia = new Scanner(System.in);            						
 		String cor;
 		
-		ArrayList<String> cores = new ArrayList<>(); 
+		
+		ArrayList<String> cores = new ArrayList<String>(); 
 		/* inicializando a collection e o seu tipo*/	
 		
 		
